@@ -1,0 +1,309 @@
+body{
+    margin: 0;
+}
+.home{
+    
+    background-image: url(drew-coffman-1872.jpg);
+    height: 700px;
+    background-size: 100% 100%;
+   
+    }
+    .nav{
+
+        position: fixed;
+        background-color: white;
+        width: 100%;
+
+    }
+.image{
+        height: 60px;
+        float: left;
+        margin-left: 50px;
+        margin-top: 5px;    
+        
+
+}
+.list{
+    float: left;
+    margin-left: 550px;
+    margin-top: 30px;
+    
+}
+.clr{
+    clear: both;
+
+}
+.list li{
+    display: inline;
+    margin: 15px;
+    padding-top: 20px;
+        
+}
+
+a{
+    color: white; 
+    text-decoration:none;
+    color: black;
+}
+.caption{
+    text-align: center;
+    padding-top: 160px;
+    font-size: 25px;
+    color:#fff;
+    
+}
+    
+}
+
+button{
+    border:none;
+    background-color: transparent;
+    color: white;
+    padding:20px;
+}
+.btn1{
+
+   background-color: #c1ab84;
+   margin-right: 20px;
+   padding: 9px 9px;
+   background-color: #8e7754;
+   margin-top: 50px;
+
+}
+.btn2{
+    border-style: solid;
+    border-width: 1px;
+    padding: 9px 9px;
+    background-color: white;
+}
+
+/*                */
+
+
+.home1{
+
+    height: 700px;
+    margin-top: 80px;
+}
+
+
+.sweets img{
+    margin-left: 100px;
+    width: 40%;
+    height: 80%;
+    float: left;
+    margin-right: 85px;
+}
+.info{
+    float: left;
+    margin-top: 35px;
+}
+.info img{
+    width: 20px;
+    height: 20px;
+}
+
+.pra{
+
+    line-height: 1.86em;
+}
+
+.both img{
+    
+    float: left;
+    margin-right: 17px;
+
+}
+
+.both p{
+
+    float: left;
+    
+}
+
+.both1 img{
+    float: left;
+    margin-right: 17px;
+}
+.both1 p{
+
+    float: left;
+    
+}
+
+.both2 img{
+    float: left;
+    margin-right: 17px;
+}
+.both2 p{
+
+    float: left;
+    
+}
+.both3 img{
+    float: left;
+    margin-right: 17px;
+}
+.both3 p{
+
+    float: left;
+    
+}
+
+
+.info2{
+    margin-top: 130px;
+    margin-left: 90px;
+    margin-right: 100px;
+    float: left;
+}
+
+.sellsweet img{
+
+    width: 40%;
+    height: 65%;
+    float: left;
+   /*margin-left: 1px;*/
+
+}
+
+
+
+.info3{
+
+    margin-bottom:20px;
+    text-align: center;
+    
+}
+
+
+            /* scroll 3 */
+ .home2{
+    margin-top: 80px;
+    height: 500px;   
+
+ }
+.ourproduct1{
+    
+       text-align: center;
+       float: left;
+      
+}
+
+.ourproduct2{
+    
+       text-align: center;
+       float: left;
+      
+    }
+
+.ourproduct3{
+        text-align: center;
+       float: left;
+       
+    }
+
+
+
+
+
+.ourproduct1 img{
+
+    width: 350px;
+    margin: 20px 5px 20px 50px;
+}
+.ourproduct2 img{
+
+    width: 350px;
+    margin: 20px 50px 20px 50px;
+}
+
+
+.ourproduct3 img{
+
+    width: 350px;
+    margin:20px 50px 20px 50px;
+}
+/*scroll 4*/
+.home3{ 
+    height: 700px;
+    margin-top: 80px;
+    background-color: floralwhite;
+}
+
+.info4{
+    float: left;
+    margin-top: 30px;
+    margin-right: 135px;
+    margin-left: 40px;
+    
+}
+
+.map{
+    margin-top: 30px;
+    float: left;
+}
+
+
+
+.home3 .info4 .icon5{
+
+    width: 20px;
+    height: 20px;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+
+
+/*scroll5*/
+.home6{
+
+    height: 400px;
+   margin-top: 40px;
+    background-color: #c1ab84;
+}
+.about{
+    margin-left: 65px;
+    line-height: 1.86em;
+    float: left;
+    
+}
+
+
+.msafa{
+
+    margin-right: 7px;
+    display: inline;
+    float: left;
+    
+}
+
+.lastness{
+
+    height: 390px;
+    width: 100%;
+    background-color: #353330;;
+
+}
+
+.lastness img{
+    background-size: 100% 100%;
+    padding: 175px 35%;
+    padding-bottom: 25px;
+
+}
+
+.lastp{
+    color: #797979;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
